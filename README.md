@@ -1,5 +1,7 @@
 # React + Vite
+Entrega do desafio do curso front-end do Vai na Web.
 
+![projeto](https://github.com/jwictor/desafio-mequi/assets/39440505/055b2926-e62f-498a-965b-5d000a19cea6)
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
